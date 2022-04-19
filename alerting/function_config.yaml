@@ -1,0 +1,10 @@
+cdf_project: quanta-dev
+cdf_cluster: api  # or api, westeurope-1, etc.
+schedules_client_id: c1dea02d-6e47-4976-a589-41d06632bad2
+schedules_tenant_id: bad801b1-c222-4ea0-8d59-ee83f35040bc
+data_set_id: 3491015702935028
+common_folder: common
+description: "This function does an important job. Yes :doge:"
+owner: Karan Rajagopalan
+cpu: 0.15
+memory: 0.25

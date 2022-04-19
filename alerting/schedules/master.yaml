@@ -1,0 +1,13 @@
+- name: My monthly schedule
+  cron: "0 0 1 * *"
+  data:
+    event_description: auto
+    logic: '>'
+    logic_string: greater than
+    metadata:
+      Info: Test
+      Purpose: Test
+    scheduled_frequency: 700d
+    threshold: 42.5
+    ts_ext_id: Timeseries_1
+    type: cognite_functions_alerting

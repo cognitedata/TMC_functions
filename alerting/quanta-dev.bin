@@ -1,0 +1,54 @@
+{
+    "AccessToken": {
+        "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3-login.microsoftonline.com-accesstoken-01a73a46-16a7-41fc-ae12-9e7dc690b05c-bad801b1-c222-4ea0-8d59-ee83f35040bc-https://api.cognitedata.com/identity https://api.cognitedata.com/user_impersonation https://api.cognitedata.com/.default": {
+            "credential_type": "AccessToken",
+            "secret": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Imwzc1EtNTBjQ0g0eEJWWkxIVEd3blNSNzY4MCIsImtpZCI6Imwzc1EtNTBjQ0g0eEJWWkxIVEd3blNSNzY4MCJ9.eyJhdWQiOiJodHRwczovL2FwaS5jb2duaXRlZGF0YS5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9iYWQ4MDFiMS1jMjIyLTRlYTAtOGQ1OS1lZTgzZjM1MDQwYmMvIiwiaWF0IjoxNjM3MzMwODY1LCJuYmYiOjE2MzczMzA4NjUsImV4cCI6MTYzNzMzNjM2OCwiYWNyIjoiMSIsImFpbyI6IkFhUUFXLzhUQUFBQW11Q0p3QnpCS1RaOHhnbG1QbUU5WmRRcEVYcFdWK2NsNXlGdHJhU25uaW5UL0RmQkxLSVo4d2J0U1ZYNG41dUx1YXBOOERSdnNMYmx3MWE2M29QSGhUblVNM2Y0ckp0SzBOZW9VWFlHNFNXS3p3ejErMFMxaVViSGluL2pXdkNGMzh5UHJVZDlkRVZLWFdaM2VhYytRcGNlcTRNM0JqMTczZkZkRTYwZEpFKzZxTmNUWWl1QlVLMDRUYm1EWkJJbHlud0M0eGhVc2liRFZlQUJwSW1HYWc9PSIsImFtciI6WyJwd2QiLCJtZmEiXSwiYXBwaWQiOiIwMWE3M2E0Ni0xNmE3LTQxZmMtYWUxMi05ZTdkYzY5MGIwNWMiLCJhcHBpZGFjciI6IjAiLCJlbWFpbCI6ImthcmFuLnJhamFnb3BhbGFuQGNvZ25pdGVkYXRhLmNvbSIsImdyb3VwcyI6WyJlZTQ4MTYxNC0zZWY5LTRhMjItYTZiNi1kM2IwY2RlMjBlNTIiLCI4OTRmYWVhMy01ZDU5LTRiYjctYmQ4MC02NDkyNzVkNmUwMDYiXSwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvYTlhZTViNTQtMzYwMC00OTE3LWE5ZGMtMzAyMDcyMzM2MGIzLyIsImlwYWRkciI6IjkxLjIyOC4yMTQuMTIwIiwibmFtZSI6IkthcmFuIFJhamFnb3BhbGFuIiwib2lkIjoiNDdhYTBlYTgtYTNiOS00OTY5LThlNmYtZjc3NzdjMjRlYWZlIiwicmgiOiIwLkFTOEFzUUhZdWlMQ29FNk5XZTZEODFCQXZFWTZwd0duRnZ4QnJoS2VmY2FRc0Z3dkFCdy4iLCJzY3AiOiJJREVOVElUWSB1c2VyX2ltcGVyc29uYXRpb24iLCJzdWIiOiI4MUF4ZE04M19ON3REMEdqRHh6amlTRUFJZjRRR1YwMnhvMXh6d0c1MmdrIiwidGlkIjoiYmFkODAxYjEtYzIyMi00ZWEwLThkNTktZWU4M2YzNTA0MGJjIiwidW5pcXVlX25hbWUiOiJrYXJhbi5yYWphZ29wYWxhbkBjb2duaXRlZGF0YS5jb20iLCJ1dGkiOiJIYWVOb0dXcXprTzN4YWtVdWJVUkFBIiwidmVyIjoiMS4wIn0.FtJ8bdndXddnOuWVfQbYxKx4_VTyDGxPc_Tah4cm37QqPVF3M0P5GRsZHXnErhCGGCLp7LqoQGCSOrIOZ6igFHhtk-3Nhx3zMQZJJME5hdA-cEaDUG4axYdwfLgzRXvjLuajaJljcKZz6pF5LRS1hr0SP0p_g4titInePJ3I5w0rQ0zBmBfTUcC6g4bmI-9SXbd3Sbhh_forThBgSHrdzdMhkfER4ohNLf1Je8tNvVR6mij2KPqXdVFN-HnuGaZC9lSsLklr8SMcdRGcIbErVVmHQFDNwB74P3ZKakYjnJw6TMJmMMCrEsuzUrNn2OInLP0kMbruQqtoxYOxC8r6_g",
+            "home_account_id": "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3",
+            "environment": "login.microsoftonline.com",
+            "client_id": "01a73a46-16a7-41fc-ae12-9e7dc690b05c",
+            "target": "https://api.cognitedata.com/IDENTITY https://api.cognitedata.com/user_impersonation https://api.cognitedata.com/.default",
+            "realm": "bad801b1-c222-4ea0-8d59-ee83f35040bc",
+            "token_type": "Bearer",
+            "cached_at": "1637331167",
+            "expires_on": "1637336369",
+            "extended_expires_on": "1637336369"
+        }
+    },
+    "Account": {
+        "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3-login.microsoftonline.com-bad801b1-c222-4ea0-8d59-ee83f35040bc": {
+            "home_account_id": "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3",
+            "environment": "login.microsoftonline.com",
+            "realm": "bad801b1-c222-4ea0-8d59-ee83f35040bc",
+            "local_account_id": "47aa0ea8-a3b9-4969-8e6f-f7777c24eafe",
+            "username": "karan.rajagopalan@cognitedata.com",
+            "authority_type": "MSSTS"
+        }
+    },
+    "IdToken": {
+        "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3-login.microsoftonline.com-idtoken-01a73a46-16a7-41fc-ae12-9e7dc690b05c-bad801b1-c222-4ea0-8d59-ee83f35040bc-": {
+            "credential_type": "IdToken",
+            "secret": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Imwzc1EtNTBjQ0g0eEJWWkxIVEd3blNSNzY4MCJ9.eyJhdWQiOiIwMWE3M2E0Ni0xNmE3LTQxZmMtYWUxMi05ZTdkYzY5MGIwNWMiLCJpc3MiOiJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vYmFkODAxYjEtYzIyMi00ZWEwLThkNTktZWU4M2YzNTA0MGJjL3YyLjAiLCJpYXQiOjE2MzczMzA4NjUsIm5iZiI6MTYzNzMzMDg2NSwiZXhwIjoxNjM3MzM0NzY1LCJncm91cHMiOlsiZWU0ODE2MTQtM2VmOS00YTIyLWE2YjYtZDNiMGNkZTIwZTUyIiwiODk0ZmFlYTMtNWQ1OS00YmI3LWJkODAtNjQ5Mjc1ZDZlMDA2Il0sImlkcCI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0L2E5YWU1YjU0LTM2MDAtNDkxNy1hOWRjLTMwMjA3MjMzNjBiMy8iLCJuYW1lIjoiS2FyYW4gUmFqYWdvcGFsYW4iLCJub25jZSI6IjAzMmRkZTU0NjNjN2Y2ZTdiNTY3MTZjNTUwYWViMWM3NDU1NDRjYjZhNmQ1N2JjYTZjZTc4MjhiNWViMDZkZDgiLCJvaWQiOiI0N2FhMGVhOC1hM2I5LTQ5NjktOGU2Zi1mNzc3N2MyNGVhZmUiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJrYXJhbi5yYWphZ29wYWxhbkBjb2duaXRlZGF0YS5jb20iLCJyaCI6IjAuQVM4QXNRSFl1aUxDb0U2TldlNkQ4MUJBdkVZNnB3R25GdnhCcmhLZWZjYVFzRnd2QUJ3LiIsInN1YiI6ImVjWW9YX0xUb3hwQms0QzVxVDVFUVhXdFVxU0hWa1ppOWcwUEp1Y0JiU0kiLCJ0aWQiOiJiYWQ4MDFiMS1jMjIyLTRlYTAtOGQ1OS1lZTgzZjM1MDQwYmMiLCJ1dGkiOiJIYWVOb0dXcXprTzN4YWtVdWJVUkFBIiwidmVyIjoiMi4wIn0.f__XRlPhURHpyxwY_A4EvYQFv6KbsZLqfoiyIEjFsk369y41-XVYWgltwCy-AvPcoX6ER_AkkKWi0Ycvkzkiu7KNhfTDRpz2T3qC15i8NiOLUvm-DkwzR9sKnu3FT-4YZRdZ3JaFUP2kHsuG0JIoHBrPcUNpi3kqEHfWqnBMC1agF31DQMjPD0jUadh8po-An9Fo0G6mNIH0dEj8dVIAunAGEQWvznOUtI49eT4jZo61Z1p-BJDTz5dqBuDwqzJnisDK7cUjvRZc581zL9ciPk8CZKEntGQ3urDzXP1XuS8kTB7teLc2MgWfvAO6TST28-ZOjbbRYCOE2mwGxtLd3A",
+            "home_account_id": "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3",
+            "environment": "login.microsoftonline.com",
+            "realm": "bad801b1-c222-4ea0-8d59-ee83f35040bc",
+            "client_id": "01a73a46-16a7-41fc-ae12-9e7dc690b05c"
+        }
+    },
+    "RefreshToken": {
+        "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3-login.microsoftonline.com-refreshtoken-01a73a46-16a7-41fc-ae12-9e7dc690b05c--https://api.cognitedata.com/identity https://api.cognitedata.com/user_impersonation https://api.cognitedata.com/.default": {
+            "credential_type": "RefreshToken",
+            "secret": "0.AS8AsQHYuiLCoE6NWe6D81BAvEY6pwGnFvxBrhKefcaQsFwvABw.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P9lWt9vrgGoE_Kv2-BGVj-0KzfrsoreZSalkVxKn_6zC7kuK6UnGvGSk0GSrpJw6lJ5ddLJQuxcjmrBkJolEbDTWBowxmQre4_ED5M5gIhtE9VoKRxVtCWVeNC1_vZ2Om6wSkkoBFvw2CE_Fl6kx6vZlL7qA-Y_udzTCJ2N87I3ivt287-yILND0ui2sZTmaNMXUOHpFP1LJNNaHZ-quMQjDl1nCz4pR1hzLNFMBGMRYv43JwCGhdmrBhexkRsQSQ3j27bdL1Eax2XaDcfn_C74P9fE3bjYPPp5bmuWPjYaZxNgmzpPu35B1QC0J6paybQEMNKRAtT_2rJ_71wNfpAOXG2-b3y1JI1WE0sKEeKXVU7kJ_rqg3XBZH9OI-9VMseeu4lkGPjechKvIXyO79n3br2ATb8FiFdgnBl824xYgJOKMcLO7GyepmyfUiE6g0WAjkmHra01Gz6l0q3yzHsdX9s3W-yjjWVx-Rw8rxe4meeOXTPtn1_Jd175TilHXKJoh3qmGomdpkjzdY9dlLEbPDvGQnID8hhWs4MSit6JXbvxYKX5dD4wcKOqzU2kik0SlFY_93vnkMZIT26rKKB1Ih3WbgWO-s3b9QjWPffE22Ia4dqP1i320p9eSOCHv8317CmcYT5jlO3HLlqRwOw0QTjHOegyPZKfJm5p3mN0ewq3qF-ZXrt4j5BIJ-9gFCvcNV_vdKnK2gObouFTim4z218B-8KS3I-G5ibf4LuIIVV5Ab0T3U6U6YatEvYfTC2bcdzY2NleCUkHLuXnFpC8URTm8J-9OouNWRFxCa_fSqRxEe4sx2pJfff9oLnAAfPWIsZOCyBsehlthypVCciOU-gfvrkQvDFxVVudye7Vw9yWKQwsVf0YmC7Fub2KUAKNRlWZ1gaHAdvoUpl_gBhja_bHtEb6MrydEV-tjDqhE5EPYoJLueQUO-HP9_MxQIAjVJA1xO5ToaDdPcG_OJfe0L9pRQ36B1mRlZrbMlD1MubJlCJPAE5DydVVqrnpRwDg8Nqhne7I8XWTVteUt58MS5JhNVQoStgIlLR8p82LCdljiCC4cuUOSH97txI8ZX-mVD5xLvelxEH93z11XOQsCDpY2Uo3Ze3SMR6uPVCwBGpMAK44a2Ju7B7ok9HcVaHNonU9osA4tXvvuKgbs_ipAnXrCmGVbDISa7XAVcZx9VfMbdj_VW7XYDgZlbJTgg1zP66SNSYt2DzySFHOu9Vm6xBDmMp7Y_28fSwKeOEi5UD-wVAqjPnNUZO7GuhZd6z_Rz6FrANt5NgQvjONoaCk1hJsixNftN8WeUCFyWAoYB3DoRqfz-Ew_Ufh8_Z72CBsNImOkuwfO_J1feFbJWQNqg-8g789hzZCrjbfWh1-B5d4hZ9SEsPRGLm9bRd4XRF3ejfcwE80",
+            "home_account_id": "cf715476-7841-48ee-95b3-5fadb3736a1a.a9ae5b54-3600-4917-a9dc-3020723360b3",
+            "environment": "login.microsoftonline.com",
+            "client_id": "01a73a46-16a7-41fc-ae12-9e7dc690b05c",
+            "target": "https://api.cognitedata.com/IDENTITY https://api.cognitedata.com/user_impersonation https://api.cognitedata.com/.default",
+            "last_modification_time": "1637331167"
+        }
+    },
+    "AppMetadata": {
+        "appmetadata-login.microsoftonline.com-01a73a46-16a7-41fc-ae12-9e7dc690b05c": {
+            "client_id": "01a73a46-16a7-41fc-ae12-9e7dc690b05c",
+            "environment": "login.microsoftonline.com"
+        }
+    }
+}
